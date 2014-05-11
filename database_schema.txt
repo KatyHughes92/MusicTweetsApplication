@@ -1,0 +1,1 @@
+CREATE TABLE tweets(id int(50), screen_name varchar(255), status_text varchar(255), source varchar(255), timezone varchar(255), timestamp datetime, PRIMARY KEY(id));
