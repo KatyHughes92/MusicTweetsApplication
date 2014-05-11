@@ -1,7 +1,7 @@
 MusicTweetsApplication
 ======================
 
-MusicTweetsApplication. Kathryn Hughes final year project, City University.
+MusicTweetsApplication. Kathryn Hughes final year project, City University.     
 
 MusicTweetsApplication is made of two parts; hypotheticalLocationsTool.pde and MusicTweetsApplication
 
